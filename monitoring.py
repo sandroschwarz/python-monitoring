@@ -1,6 +1,6 @@
 import alarm # import own module (./alarm.py)
 import os, time # import built-in modules
-import psutil as p # import psutil (pip install psutil)
+import psutil as p # import psutil (pip install requirements.txt)
 
 def clear():
     os.system("cls")
